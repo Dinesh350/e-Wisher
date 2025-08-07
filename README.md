@@ -27,8 +27,4 @@ e-Wisher is a full-stack web application designed to automatically send personal
 ## 📷 Screenshots
 ![output_poster](https://github.com/user-attachments/assets/2dc015bf-608b-4e31-a4e2-a295794c1f2f)
 
-> _You can add UI screenshots here: dashboard view, birthday poster preview, scheduled greetings, etc._
 
-
-   git clone https://github.com/your-username/e-Wisher.git
-   cd e-Wisher
